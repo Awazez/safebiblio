@@ -4,6 +4,11 @@
 
 <template>
   <section>Construire une safe place pour votre bibliothèque</section>
+  <p>
+    Comment construire un espace sûr en bibliothèque ?
+    Après la déferlante numérique, nous avons créé le concept de « troisième lieu » pour répondre à ces nouvelles pratiques. 
+    Suite à la vague #MeToo, les bibliothèques ont commencé à construire des espaces sûrs (safe spaces), où le harcèlement, le harcèlement sexuel et le cyberharcèlement 
+    sont combattus grâce à une éducation entre pairs et à l’application d’un protocole adapté. </p>
   
   <!-- Ajouter un lien pour déclencher le téléchargement -->
   <a href="/Protocole_Safe_Place.pdf" download="Protocole_Safe_Place.pdf">
@@ -29,6 +34,7 @@ p {
   font-family: "Montserrat", system-ui;
   font-weight: 900;
   color: black;
+  align-content: justify;
 }
 
 button {
