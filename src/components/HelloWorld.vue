@@ -6,10 +6,10 @@
   <section>Construire une safe place pour votre bibliothèque</section>
   
   <!-- Ajouter un lien pour déclencher le téléchargement -->
-  <a href="/public/Protocole_Safe_Place.pdf" download="Protocole_Safe_Place.pdf">
+  <a href="/Protocole_Safe_Place.pdf" download="Protocole_Safe_Place.pdf">
     <button>Télécharger le protocole</button>
   </a> 
-  
+
   <br>
   <p>Participez ! Envoyer un mail à contact@safebiblio.fr</p>
 </template>
