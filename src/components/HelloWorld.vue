@@ -16,7 +16,7 @@
   </a> 
 
   <br>
-  <p>Participez ! Envoyer un mail à contact@safebiblio.fr</p>
+  <p>Participez ! Envoyer un mail à safebiblio@gmail.com</p>
 </template>
 
 <style scoped>
