@@ -6,7 +6,7 @@
   <section>Construire une safe place pour votre bibliothèque</section>
   
   <!-- Ajouter un lien pour déclencher le téléchargement -->
-  <a href="/public/Protocole_Safe_Zone.pdf" download="Protocole_Safe_Biblio.pdf">
+  <a href="/public/Protocole_Safe_Place.pdf" download="Protocole_Safe_Place.pdf">
     <button>Télécharger le protocole</button>
   </a> 
   
